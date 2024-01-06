@@ -1,9 +1,9 @@
 # Site settings
 title: Jieyin's Blog
 SEOTitle: Jieyin的博客 | Jieyin's Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/headbg.jpg
 email: jieyinfeng0505@gmail.com
-description: "To feel it, to experience it, and to enjoy it."
+description: "Hello there!"
 keyword: "running, traveling, overseas volunteer, cognitive neuroscience research, psychotherapist, language tutor"
 url: "http://jieyinfneg.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
