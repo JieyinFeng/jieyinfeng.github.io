@@ -4,7 +4,7 @@ SEOTitle: Jieyin的博客 | Jieyin's Blog
 header-img: img/post-bg-desk.jpg
 email: jieyinfeng0505@gmail.com
 description: "To feel it, to experience it, and to enjoy it."
-keyword: "Jieyin, blog, traveling, overseas volunteer, cognitive neuroscience research, psychotherapist, language tutor"
+keyword: "running, traveling, overseas volunteer, cognitive neuroscience research, psychotherapist, language tutor"
 url: "http://jieyinfneg.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jieyinfeng/jieyinfeng.github.io.git" # you code repository
@@ -18,9 +18,9 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
 #zhihu_username:     
-github_username:    JieyinFeng
+github_username: JieyinFeng
+linkedIn_username: Jieyin Feng
 #youtube_username:
 
 
