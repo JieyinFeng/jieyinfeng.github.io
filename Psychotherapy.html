@@ -1,1 +1,126 @@
-222...
+---
+layout: page
+title: "About"
+description: "Hello! I am Jieyin. Welcome to my blog!"
+header-img: "img/aboutbg1.jpg"
+---
+
+<!-- Language Selector -->
+<!-- <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
+    <option value="0" selected> 中文 Chinese </option>
+    <option value="1"> 英文 English </option>
+</select> -->
+
+<!-- Chinese Version -->
+<div class="zh post-container">
+
+    <!--copied from markdown -->
+    <blockquote><p>随性而行，随遇而安，随心而静。<br>
+    珍惜拥有，蕴藏大爱，保持好奇。</p></blockquote>
+
+    <p>Hello! 我是<strong> Jieyin </strong>，喜欢旅行，探索大自然，长跑，和一切有意思的人和事物。</p>
+    <p>目前是一名心理咨询师，同时也是一名第二外语语言教育者 (英语和汉语)。之前是以一位认知神经科学语言学习和发展的初级研究者和从从事学校儿童心理老师和咨询师。</p>
+    <p>在过去很多年间，我一直在不同的国家旅行，学习，旅居，远程工作，以及志愿者的工作。这些国家有些是在亚洲，芬兰，美国，拉丁美洲。</p>
+    <p>这个博客主要用于记录一些在生活中遇到的人和事，看到的风景，引起的一些思考。</p>
+    <p>我主要用汉语来就进行写作。但有时候你也会看到一些英文或者其他语言。我总是觉得有些词汇和表达在有些语言的表达中其实更为优胜。</p>
+
+   <!-- English Version -->
+<div class="en post-container">
+    <blockquote><p>To feel it, to experience it, and to enjoy it.<br>
+    Stay authentic, stay curious, stay healthy.</p></blockquote>
+
+    <p>Hi, I am <strong>Jieyin</strong>. I like traveling, exploring nature, long-distance running, and spending time with interesting people and things.</p>
+    <p>I am a psychotherapist and a second language tutor (English and Mandarin). I worked as a cognitive neuroscience R1 researcher in language development, and a psychological teacher for kids.</p>
+    <p>I traveled, lived, worked remotely, and worked as an overseas volunteer in many countries, including places in Asia, Finland, the US, and Latin America.</p>
+    <p>This is my blog, where I can note interesting stories and people, some thoughts and ideas. </p>
+    <p>I am posting some writing on this blog in my native language, Chinese. Sometimes you can see some English or other languages in between, as some vocabulary in other languages could represent a better meaning.</p>
+
+
+
+<!-- Handle Language Change -->
+<script type="text/javascript">
+    // get nodes
+    var $zh = document.querySelector(".zh");
+    var $en = document.querySelector(".en");
+    var $select = document.querySelector("select");
+
+    // bind hashchange event
+    window.addEventListener('hashchange', _render);
+
+    // handle render
+    function _render(){
+        var _hash = window.location.hash;
+        // en
+        if(_hash == "#en"){
+            $select.selectedIndex = 1;
+            $en.style.display = "block";
+            $zh.style.display = "none";
+        // zh by default
+        }else{
+            // not trigger onChange, otherwise cause a loop call.
+            $select.selectedIndex = 0;
+            $zh.style.display = "block";
+            $en.style.display = "none";
+        }
+    }
+
+    // handle select change
+    function onLanChange(index){
+        if(index == 0){
+            window.location.hash = "#zh"
+        }else{
+            window.location.hash = "#en"
+        }
+    }
+
+    // init
+    _render();
+</script>
+
+
+<!-- Gitalk 评论 start  -->
+{% if site.gitalk.enable %}
+<!-- Gitalk link  -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+    <script type="text/javascript">
+    var gitalk = new Gitalk({
+    clientID: '{{site.gitalk.clientID}}',
+    clientSecret: '{{site.gitalk.clientSecret}}',
+    repo: '{{site.gitalk.repo}}',
+    owner: '{{site.gitalk.owner}}',
+    admin: ['{{site.gitalk.admin}}'],
+    distractionFreeMode: {{site.gitalk.distractionFreeMode}},
+    id: 'about',
+    });
+    gitalk.render('gitalk-container');
+</script>
+{% endif %}
+<!-- Gitalk end -->
+
+ <!-- disqus 评论框 start  -->
+{% if site.disqus.enable %}
+
+<div class="comment">
+    <div id="disqus_thread" class="disqus-thread">
+    </div>
+</div>
+<!-- disqus 评论框 end -->
+
+<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = "{{site.disqus.username}}";
+    var disqus_identifier = "{{site.disqus.username}}/{{page.url}}";
+    var disqus_url = "{{site.url}}{{page.url}}";
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<!-- disqus 公共JS代码 end -->
+{% endif %}
