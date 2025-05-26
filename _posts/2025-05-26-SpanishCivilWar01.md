@@ -22,8 +22,11 @@ Federico Garcia Lorca was born in Fuente Vaqueros, a small village near Granada 
 The ‘Gacela of Unforseen Love‘ is taken from his collection, The Tamarit Divan, which was published posthumously in 1940 although the poems were written between 1931-1934. Like much of Lorca’s poetry, it is informed by his close connection to the Andalusian landscape, culture and history, particularly the region’s Arabic connections.
 
 No one understood the perfume
+
 of the dark magnolia of your womb.
+
 Nobody knew that you tormented
+
 a hummingbird of love between your teeth.
 
 A thousand Persian little horses fell asleep
