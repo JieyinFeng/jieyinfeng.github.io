@@ -22,8 +22,8 @@ tags:								#标签
 6. Even though he made three return trips west, Christopher Columbus never actually stepped foot on the mainland of North America.
 
 ##  ACTIVITY 2 Story Retelling: the fun facts story
-#### First, read the English description of the story and try to understand the main idea of the story. If you have any questions, please ask.
-#### Try to retell the story in your own words. Please use any kind of performing (e.g. singing, dancing, acting, mimicking), blackboard, your body language and so on to tell the story.
+First, read the English description of the story and try to understand the main idea of the story. If you have any questions, please ask.
+Try to retell the story in your own words. Please use any kind of performing (e.g. singing, dancing, acting, mimicking), blackboard, your body language and so on to tell the story.
 
 #### Story 1. Even in death, Columbus continued to cross the Atlantic. (4 - 5 people)
 Following his death in 1506, Columbus was buried in Valladolid, Spain, and then moved to Seville. At the request of his daughter-in-law, the bodies of Columbus and his son Diego were shipped across the Atlantic to Hispaniola and interred in a Santo Domingo cathedral. When the French captured the island in 1795, the Spanish dug up remains thought to be those of the explorer and moved them to Cuba before returning them to Seville after the Spanish-American War in 1898. 
