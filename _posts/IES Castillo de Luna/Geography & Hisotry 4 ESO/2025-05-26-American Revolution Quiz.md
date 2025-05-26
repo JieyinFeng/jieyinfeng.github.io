@@ -22,27 +22,27 @@ tags:								#标签
 (5) On July 4th, 1776, the United States of America was born.
 
 2. Choose the right word to fill the following gaps. (10 points)
-(1) set 1
-voyage     B. colonies     C. pilgrims     D. settlers    
-After Christopher Columbus’ _________ to America in 1492, news of this new land travelled across Europe. People became interested in starting _________, but the first _________, called the ‘_________’, arrived in the early part of the 17 century.
-(2) set 2
-Great Britain     B. Spain     C. France     D. Paris     E. Netherlands     F. United States
-In 1778,  _________ became an important ally of the  _________  and sent soldiers and ships to fight the   British.   _________ and the  _________  also became American allies in 1779 and 1780. 
+(1) set 1\
+voyage     B. colonies     C. pilgrims     D. settlers    \
+After Christopher Columbus’ _________ to America in 1492, news of this new land travelled across Europe. People became interested in starting _________, but the first _________, called the ‘_________’, arrived in the early part of the 17 century.\
+(2) set 2\
+Great Britain     B. Spain     C. France     D. Paris     E. Netherlands     F. United States\
+In 1778,  _________ became an important ally of the  _________  and sent soldiers and ships to fight the   British.   _________ and the  _________  also became American allies in 1779 and 1780. \
 On September 3r, 1783, America and  _________  signed the peace treaty in  _________ .
 
-3. Gap Fill. (10 points)
-(1) Before, America had _________ Colonies. Now, America has _________ states.
-(2) Before, there were 13 _________ and _________ stripes and a circle of 13 _________ stars on a _________ background.
-(3) Americans call their flag ‘______________________________________’.
+4. Gap Fill. (10 points)\
+(1) Before, America had _________ Colonies. Now, America has _________ states.\
+(2) Before, there were 13 _________ and _________ stripes and a circle of 13 _________ stars on a _________ background.\
+(3) Americans call their flag ‘______________________________________’.\
 (4) The most important products that colonies produced were _________ ,  _________  and  _________ .
 
-4. What happened during the “Boston Tea Party”? (2 points)
+5. What happened during the “Boston Tea Party”? (2 points)
 
 
-5. Why did the colonists want independence? (3 points)
+6. Why did the colonists want independence? (3 points)
 
 
-6. BONUS QUESTION: What’s the name of the boat that the British settlers took to America in 1620? (5 points)
+7. BONUS QUESTION: What’s the name of the boat that the British settlers took to America in 1620? (5 points)
 
 #### [Worksheet on Google Drive](https://docs.google.com/document/d/1Idx26ZXM7ksGMsgfU1FpSbq3iQrjvVop/edit?usp=sharing&ouid=103086183032334531092&rtpof=true&sd=true)
 
