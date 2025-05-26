@@ -16,7 +16,7 @@ tags:								#标签
 ## ACTIVITY 1.  READING - Learn about some art work related to the Spanish Civil war.
 ### 1. Salvador Dalí, Soft Construction with Boiled Beans (Premonition of Civil War), 1936
 Unlike many of his contemporaries, Salvador Dalí did not take sides during the Spanish Civil War. He seemed to vacillate from one extreme to the other, and his refusal to renounce Nationalism brought much ire from his peers. Nevertheless, his art is no less poignant. Soft Construction with Boiled Beans depicts the state of Spain just before the war. In torment, a disjointed, tortured body tears itself apart. The chaotic absurdity hints at a malevolence that is to cause immeasurable pain to a confused nation. The meaning of the mysterious addition of boiled beans can only be guessed.
-![](https://en.wikipedia.org/wiki/Soft_Construction_with_Boiled_Beans_%28Premonition_of_Civil_War%29#/media/File:SalvadorDali-SoftConstructionWithBeans.jpg)
+![](https://www.arthistoryproject.com/artists/salvador-dali/soft-construction-with-boiled-beans/)
 
 ###  2. Salvador Dalí, The Face of War, 1940
 Salvador Dalí painted The Face of War after the Spanish War had concluded. He returned home from France (fleeing another war) to find his life in Spain had been destroyed. His home was in ruins, and his sister had been imprisoned and tortured by Nationalists. Dalí fled to the United States, where he painted The Face of War in 1940. His handprint can be seen in the lower right-hand corner of the painting, and despite the interpretation of the snakes representing the treachery of the Nationalists who are seen to have destroyed Spain, Dalí nevertheless met with Francisco Franco in his later life and painted a portrait of his granddaughter.
