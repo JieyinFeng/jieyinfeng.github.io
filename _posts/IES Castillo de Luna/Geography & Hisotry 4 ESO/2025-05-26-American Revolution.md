@@ -36,19 +36,19 @@ D. federal, Bill of Laws
 
 
 6. The famous event was called the  ________ and it was the beginning of the fight for independence.\
-A. Georgia Tea Party     B. Virginia Tea Party     C.  New York Tea Party      D. Boston Tea Party
+A. Georgia Tea Party  \   B. Virginia Tea Party \    C.  New York Tea Party      \D. Boston Tea Party
 
 7. On   ________ 1776 the declaration was signed and the United States of America was born.\
-A. July 2nd            B. July 3rd             C.  July 4th              D. July 5th
+A. July 2nd   \         B. July 3rd       \      C.  July 4th        \      D. July 5th
 
 8. On  September 3rd 1783 America and Great Britain signed the  ________  in  ________ .\
-A. peace treaty, Paris     B. War treaty, Paris     C.  peace treaty, Boston      D. War treaty, Boston
+A. peace treaty, Paris   \  B. War treaty, Paris \    C.  peace treaty, Boston    \  D. War treaty, Boston
 
 9. ________  is the first president of the United States and he is often called “The father of the Country”.\
-A. Thomas Jefferson     B. John Adams    C.  Benjamin Franklin      D. George Washington
+A. Thomas Jefferson   \  B. John Adams  \  C.  Benjamin Franklin   \   D. George Washington
 
 10. Before, America had ____ Colonies. Now, America has ____ states.\
-A. 13, 50          B. 13, 58          C. 30, 15          D. 30, 58
+A. 13, 50     \     B. 13, 58       \   C. 30, 15    \      D. 30, 58
 
 11. Before, there were 13  ____ and  ____  stripes and a circle of 13  ____ stars on a  ____ background. Now, there are 50 stars on the flag.\
 A. red, white, white, red\
