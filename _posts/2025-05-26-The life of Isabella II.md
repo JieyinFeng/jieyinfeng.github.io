@@ -54,5 +54,5 @@ Isabella had a whopping twelve pregnancies throughout her life, but tragically, 
 Isabella had numerous lovers throughout her life: politicians, engineers, actors, and more. She took on lovers during her marriage, and you can bet she took on another one after she left Francisco for good. In 1875, the exiled Queen, freed from the expectations of the Spanish elite, openly had a relationship with Ramiro de la Puente y González Nandín, her secretary and chief of staff.
 
 
-##### [Worksheet on Google Drive](https://docs.google.com/document/d/1nwDeoYXktpK_LCiNq9mDh63lzKXUv276/edit?usp=sharing&ouid=103086183032334531092&rtpof=true&sd=true)
+#### [Worksheet on Google Drive](https://docs.google.com/document/d/1nwDeoYXktpK_LCiNq9mDh63lzKXUv276/edit?usp=sharing&ouid=103086183032334531092&rtpof=true&sd=true)
 
