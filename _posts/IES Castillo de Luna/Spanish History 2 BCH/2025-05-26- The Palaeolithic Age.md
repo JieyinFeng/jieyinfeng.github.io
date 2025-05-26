@@ -11,7 +11,7 @@ tags:								#标签
     - IES Castillo de Luna
     - Bilingual Program
     - Geography & History Classes
-    - Spanish History Classes
+
 ---
 
 ## ACTIVITY 1 The process of hominisation
