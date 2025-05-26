@@ -21,18 +21,15 @@ tags:								#标签
 Federico Garcia Lorca was born in Fuente Vaqueros, a small village near Granada in 1898. A poet and playwright, he is broadly regarded as one of the greatest writers in the Spanish language. He was tragically murdered in the early stages of the Spanish Civil War, most likely on account of his homosexuality.
 The ‘Gacela of Unforseen Love‘ is taken from his collection, The Tamarit Divan, which was published posthumously in 1940 although the poems were written between 1931-1934. Like much of Lorca’s poetry, it is informed by his close connection to the Andalusian landscape, culture and history, particularly the region’s Arabic connections.
 
-No one understood the perfume
+No one understood the perfume \
+of the dark magnolia of your womb.\
+Nobody knew that you tormented\
+a hummingbird of love between your teeth.\
 
-of the dark magnolia of your womb.
-
-Nobody knew that you tormented
-
-a hummingbird of love between your teeth.
-
-A thousand Persian little horses fell asleep
-in the plaza with moon of your forehead,
-while through four nights I embraced
-your waist, enemy of the snow.
+A thousand Persian little horses fell asleep\
+in the plaza with moon of your forehead,\
+while through four nights I embraced\
+your waist, enemy of the snow.\
 
 Between plaster and jasmine, your glance
 was a pale branch of seeds.
