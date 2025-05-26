@@ -13,6 +13,8 @@ tags:								#标签
     - Spanish History
 ---
 
+##### [FULL DOCUMENT ON GOOGLE DRIVE](https://docs.google.com/document/d/1-azGtR5uOg5LazHzH1TUgfh_ibG-FoRK/edit?usp=sharing&ouid=103086183032334531092&rtpof=true&sd=true).
+
 ##  ACTIVITY 1 TRUE OR FALSE?
 1. He proved the Earth was round.
 2. He wasn't the first European to cross the Atlantic.
