@@ -71,4 +71,4 @@ With blood and metal, blue and victorious\
 Proletarian Spain, made of petals and bullets\
 Unique, alive, asleep - resounding
 
-##### [FULL DOCUMENT ON GOOGLE DRIVE](https://docs.google.com/document/d/1ski-aOO5AchPJdW0Z_56B_wG1turOy3k/edit?usp=sharing&ouid=103086183032334531092&rtpof=true&sd=true).
+##### [FULL DOCUMENT ON GOOGLE DRIVE](https://docs.google.com/document/d/1ski-aOO5AchPJdW0Z_56B_wG1turOy3k/edit?usp=sharing&ouid=103086183032334531092&rtpof=true&sd=true)
