@@ -13,9 +13,6 @@ tags:								#标签
     - Spanish History
 ---
 
-[Resources 1](https://www.factinate.com/people/unfortunate-facts-about-queen-isabella-ii-of-spain-the-queen-of-sad-mischance).
-[Resources 2](https://storymaps.com/stories/1f313b5ffcc0499db78c2c31972dd814e).
-
 ####  Read the fun facts and answer the following questions. 
 #### Discussion: 
 (1) People call her “The Queen of Sad Mischance”. People also say that “her life is a tale of heartbreak, intrigue, and countless betrayals”. Do you agree or disagree? Please explain with evidence.
@@ -55,3 +52,9 @@ Isabella had a whopping twelve pregnancies throughout her life, but tragically, 
 
 #### 11. She Had Plenty Of Lovers
 Isabella had numerous lovers throughout her life: politicians, engineers, actors, and more. She took on lovers during her marriage, and you can bet she took on another one after she left Francisco for good. In 1875, the exiled Queen, freed from the expectations of the Spanish elite, openly had a relationship with Ramiro de la Puente y González Nandín, her secretary and chief of staff.
+
+
+##### [FULL DOCUMENT ON GOOGLE DRIVE](https://docs.google.com/document/d/1nwDeoYXktpK_LCiNq9mDh63lzKXUv276/edit?usp=sharing&ouid=103086183032334531092&rtpof=true&sd=true).
+
+##### [Resources 1](https://www.factinate.com/people/unfortunate-facts-about-queen-isabella-ii-of-spain-the-queen-of-sad-mischance).
+###### [Resources 2](https://storymaps.com/stories/1f313b5ffcc0499db78c2c31972dd814e).
