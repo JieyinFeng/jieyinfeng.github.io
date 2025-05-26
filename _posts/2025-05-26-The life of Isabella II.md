@@ -16,11 +16,11 @@ tags:								#标签
 [Resources 1](https://www.factinate.com/people/unfortunate-facts-about-queen-isabella-ii-of-spain-the-queen-of-sad-mischance).
 [Resources 2](https://storymaps.com/stories/1f313b5ffcc0499db78c2c31972dd814e).
 
-##  Read the fun facts and answer the following questions. 
-## Discussion: 
-### (1) People call her “The Queen of Sad Mischance”. People also say that “her life is a tale of heartbreak, intrigue, and countless betrayals”. Do you agree or disagree? Please explain with evidence.
-### (2) What are the bright sides of her life? Please explain with evidence.
-### (3) What do you think about Isabella II? What kind of personality does she have?
+####  Read the fun facts and answer the following questions. 
+#### Discussion: 
+(1) People call her “The Queen of Sad Mischance”. People also say that “her life is a tale of heartbreak, intrigue, and countless betrayals”. Do you agree or disagree? Please explain with evidence.
+(2) What are the bright sides of her life? Please explain with evidence.
+(3) What do you think about Isabella II? What kind of personality does she have?
 
 #### 1. She Had A Disastrous Start
 Isabella II’s life didn’t exactly have the most amazing start. Born on October 10, 1830, Isabella’s father was the problematic King Ferdinand VII of Spain, who some historians describe as “incompetent, despotic, and short-sighted.” Her mom was Queen María Cristina, Ferdinand’s fourth wife (yikes!) and niece (double yikes!). Why did Isabella’s dad marry his own niece, you ask? The answer is simple, though incredibly messed-up.
