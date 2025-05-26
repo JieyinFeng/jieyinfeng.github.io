@@ -8,9 +8,10 @@ header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - Teaching in Spain 
-    - IES Castilo de Luna
-    - Geography & History
-    - Spanish History
+    - IES Castillo de Luna
+    - Bilingual Program
+    - Geography & History Classes
+    - Spanish History Classes
 ---
 
 ## ACTIVITY 1.  READING - Learn about some art work related to the Spanish Civil war.
