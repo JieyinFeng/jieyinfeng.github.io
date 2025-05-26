@@ -14,7 +14,7 @@ tags:								#标签
 ---
 
 [Resources 1](https://www.factinate.com/people/unfortunate-facts-about-queen-isabella-ii-of-spain-the-queen-of-sad-mischance).
-[Resources 1](https://storymaps.com/stories/1f313b5ffcc0499db78c2c31972dd814e).
+[Resources 2](https://storymaps.com/stories/1f313b5ffcc0499db78c2c31972dd814e).
 
 ##  Read the fun facts and answer the following questions. 
 ## Discussion: 
