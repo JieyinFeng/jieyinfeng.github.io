@@ -13,8 +13,6 @@ tags:								#标签
     - Spanish History
 ---
 
-##### [FULL DOCUMENT ON GOOGLE DRIVE](https://docs.google.com/document/d/1-azGtR5uOg5LazHzH1TUgfh_ibG-FoRK/edit?usp=sharing&ouid=103086183032334531092&rtpof=true&sd=true).
-
 ##  ACTIVITY 1 TRUE OR FALSE?
 1. He proved the Earth was round.
 2. He wasn't the first European to cross the Atlantic.
@@ -46,3 +44,7 @@ Columbus’s governance of Hispaniola could be brutal and tyrannical. Colonists 
 
 #### Story 6. He maybe was not great at maths. (2 - 3 people)
 At the time Columbus made his famous journey, a lot of overseas travel was guesswork. The exact size of the planet Earth was unknown, and there were two main ways of measuring degrees of latitude—the method developed by the Greek philosopher Poseidonius and the method developed by the mediaeval Arabs. In making his own calculations, Columbus argued that the circumference yielded by both methods was the same…ignoring, or forgetting, that Arab miles were longer than Roman miles. Using that data, which ultimately rendered the planet about 25 percent smaller, Columbus assured his backers that his small wooden ships could make it from Spain to Japan in 30 days. Some scholars think Columbus willfully misrepresented the distance, but the jury is still out.
+
+
+##### [FULL DOCUMENT ON GOOGLE DRIVE](https://docs.google.com/document/d/1-azGtR5uOg5LazHzH1TUgfh_ibG-FoRK/edit?usp=sharing&ouid=103086183032334531092&rtpof=true&sd=true).
+
