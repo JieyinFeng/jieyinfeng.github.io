@@ -15,10 +15,10 @@ tags:								#标签
 ---
 
 1. Please read the following statements. For each statement, if you think it is TRUE, place a T. Or, if you think it is FALSE, place an F. (5 points)
-(1) On the first Thanksgiving, the colonists invited the Native Americans (Indians).
-(2) The first British Colony was in New York.
-(3) Benjamin Franklin is often called “The Father of the Country”.
-(4) The colonists did not pay taxes to Great Britain.
+(1) On the first Thanksgiving, the colonists invited the Native Americans (Indians).\
+(2) The first British Colony was in New York.\
+(3) Benjamin Franklin is often called “The Father of the Country”.\
+(4) The colonists did not pay taxes to Great Britain.\
 (5) On July 4th, 1776, the United States of America was born.
 
 2. Choose the right word to fill the following gaps. (10 points)
