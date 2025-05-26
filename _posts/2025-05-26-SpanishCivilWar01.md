@@ -13,8 +13,6 @@ tags:								#标签
     - Spanish History
 ---
 
-
-# Two historical Poems about the Spanish Civil War
 ## 1. Gacela of Unforseen Love  - Federico Garcia Lorca
 
 ‘Gacela of Unforseen Love’ explores the relationship between love and despair through a remembered romance which has run its course.
