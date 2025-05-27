@@ -15,6 +15,7 @@ tags:								#标签
 ---
 
 Please find the following information using the line numbers and explain what they mean.
+
 (1) slept in separate beds      (2) not a lover of parties     (3) a nature lover      
 (4) was bullied                       (5) menu del dia                 (6) kept Spain neutral during the war
 
