@@ -14,13 +14,13 @@ tags:								#标签
 
 ---
 
-## 1. WORK IN GROUPS. Watch the video. Discuss what is the life of working in the factory during the industrial revolution? 
+#### 1. WORK IN GROUPS. Watch the video. Discuss what is the life of working in the factory during the industrial revolution? 
 Video 1 Working in the factory
 
-## 2. WORK IN GROUPS. Watch the video. Discuss what do you think about the feeding machine? Do you like it? Why or Why not?
+#### 2. WORK IN GROUPS. Watch the video. Discuss what do you think about the feeding machine? Do you like it? Why or Why not?
 Video 2 The feeding machine
 
-## 3. WORK IN PAIRS. What do you think about the connection between the industrial revolution and robots, generative AI or AI in general? Please choose one of the following topics to discuss with your partner.
+#### 3. WORK IN PAIRS. What do you think about the connection between the industrial revolution and robots, generative AI or AI in general? Please choose one of the following topics to discuss with your partner.
 The development of technology
 The working machine: from human back to the industrial revolution to these days -  the working robots
 Some jobs are substituted by AI these days. What do you think about it? Is it a good thing or bad thing?
