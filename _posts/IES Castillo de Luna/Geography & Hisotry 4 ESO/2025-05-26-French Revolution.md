@@ -146,11 +146,11 @@ Napoleon's here
 
 
 ## WORDS: Please match the meaning of the words.
-1. Impoverish     2. jeer     3. famine     4. decay     5. defy     6. frighten    \
-7. tension     8. invade     9. revenge     10. rebellion     11. worship\
+1. Impoverish     2. jeer     3. famine     4. decay     5. defy     6. frighten    
+7. tension     8. invade     9. revenge     10. rebellion     11. worship
 
 
-A. to make someone very poor; to make something worse in quality\
+A. to make someone very poor; to make something worse in quality
 B. a situation in which a large number of people have little or no food for a long time and many people die\
 C. to enter a country, town, or area using military force, in order to take control of it\
 D. to show respect and love for a god, especially by praying in a religious building\
@@ -174,7 +174,7 @@ A E B G K H I C F J D
 
 #### [Worksheet and video on Google Drive](https://drive.google.com/drive/folders/1-npoPvebmqhRIM-P0sXfoF4R69q6SAyZ?usp=sharing)
 #### [Youtube Video Link - With Historical Movie scenes](https://www.youtube.com/watch?v=2i7o8kRXS2o) 
-#### [Youtube Video Link - Lady Gaga’s HD version]  (https://www.youtube.com/watch?v=pJpL0xSYSZU)
+#### [Youtube Video Link - Lady Gaga’s HD version](https://www.youtube.com/watch?v=pJpL0xSYSZU)
 
 
 
