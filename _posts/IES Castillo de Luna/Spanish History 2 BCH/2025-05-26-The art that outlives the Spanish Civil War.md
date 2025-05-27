@@ -1,7 +1,7 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
 title:      The art that outlives the Spanish Civil War 				# 标题 
-subtitle:   Spanish Civil War #副标题
+subtitle:   #副标题
 date:       2025-05-26 				# 时间
 author:     Jieyin Feng 						# 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
