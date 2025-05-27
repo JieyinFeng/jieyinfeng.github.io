@@ -22,20 +22,20 @@ tags:								#标签
 (5) Poor children did not go to school.
 
 #### 2. Choose the right word to fill the following gaps. (0.25 in total)
-(1) set 1 (0.05 in total)
-A. industrialised     B. mines    C. particularly     D. machines     E. steam    
+(1) set 1 (0.05 in total)\
+A. industrialised     B. mines    C. particularly     D. machines     E. steam    \
 Coal was very important because it was used in _________ trains, ships and the _________ in factories. As the world became more  _________, more coal was needed. A lot of coal  _________ in Britain soon opened, _________ in central and northern England.
-(2) set 2 (0.06 in total)
-A. terraced     B. little     C. heating    D. difficult     E. unhealthy     F. illness
+(2) set 2 (0.06 in total)\
+A. terraced     B. little     C. heating    D. difficult     E. unhealthy     F. illness\
 Factory workers were paid very  _________ and it was _________  to find a place to live in the city. Most families lived in one room. In these places, it was usually cold, dark and  _________ . Others lived in small _________ houses. There was no _________ or water. There was a lot of _________ and people often died at a young age. 
-(3) set 3 (0.10 in total)
-A. wool    B. food    C. clothes    D. wood     E. furniture     F. craftsman   G. jewellery    H. tools    I. leather     J. weapons
+(3) set 3 (0.10 in total)\
+A. wool    B. food    C. clothes    D. wood     E. furniture     F. craftsman   G. jewellery    H. tools    I. leather     J. weapons\
 Before the Industrial Revolution, most people worked on farms. They lived in the country and grew their own _________ .  _________ and _________  were made by hand at home from   _________, _________ and _________. In villages and towns there were _________ who worked in their own shops and made lots of different things like clothes,  _________ _________ and _________ . 
 
 #### 3. Gap Fill (0.04 in total)
-(1) In 1803, US President Thomas Jefferson bought the  _______________ from France.
-(2) In 1765, James Watt invented  _______________.
-(3) In 1764, James Hargreaves invented  _______________.
+(1) In 1803, US President Thomas Jefferson bought the  _______________ from France.\
+(2) In 1765, James Watt invented  _______________.\
+(3) In 1764, James Hargreaves invented  _______________.\
 (4) In 1814, George Stephenson invented  _______________.
 
 #### 4. What happened during the California Gold Rush? (0.05 points)
