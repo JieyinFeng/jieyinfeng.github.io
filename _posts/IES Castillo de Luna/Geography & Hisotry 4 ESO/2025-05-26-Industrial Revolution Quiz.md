@@ -15,10 +15,10 @@ tags:								#标签
 ---
 
 #### 1. Please read the following statements. For each statement, if you think it is TRUE, place a T. Or, if you think it is FALSE, place an F. (0.05 points)
-(1) The Industrial Revolution began in France in the 1760s.
-(2) The Industrial Revolution created an upper class in Great Britain.
-(3) Poor children only did the safe work in factories.
-(4) People didn’t work on Sunday during the Industrial Revolution.
+(1) The Industrial Revolution began in France in the 1760s.\
+(2) The Industrial Revolution created an upper class in Great Britain.\
+(3) Poor children only did the safe work in factories.\
+(4) People didn’t work on Sunday during the Industrial Revolution.\
 (5) Poor children did not go to school.
 
 #### 2. Choose the right word to fill the following gaps. (0.25 in total)
