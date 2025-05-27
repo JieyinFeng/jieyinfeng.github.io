@@ -30,12 +30,17 @@ In 1937, the Spanish republic asked Picasso to create a large composition for th
 ## ACTIVITY 2 Finding the symbols of the work Guernica by Picasso and match the interpretations.
 ### (1) The Bull   (2) The Lightbulb   (3) The Horse   (4) The Woman   (5) The Man with the sword    (6) The Dove
 
-Picasso didn’t illustrate the bombing in a realistic manner, and there aren’t any bombs depicted in the piece. Instead, Picasso uses a light bulb surrounded by a glowing halo of luminous spikes. This symbolises the flames that tore apart the sky during the bombing.
-Just under the light bulb the viewer’s attention is drawn to a horse. The animal has been disemboweled by an arrow and is howling in pain. This is emblematic of the suffering inflicted on the Spanish people by the dictators and German bombers. Picasso additionally includes a subliminal skull, formed by the nose and teeth of the horse.
-The human-eyed bull evokes the fight between man and beast. Without a doubt, we can see the incarnation of Spanish Nationalist and Totalitarian regimes in this animal.
-It is hardly visible, and looks as though it has been rubbed out. This erasure is symbolic of the peace that disappeared in Guernica during the war.
-With her head and eyes rolled back, the woman holds her dead baby whilst helplessly reaching out towards the sky.  This depiction is reminiscent of portraits of Dora Maar, which Picasso nicknamed “the woman who cries.” Another woman is also shown to the right of the painting: her arms are also raised and her mouth frozen mid-scream. She is surrounded by flames, which are symbolised by the tips of triangles which allude to the explosions caused by the bombs.
-He is the only man and the only figure lying down in the painting. He has been dismembered yet still holds his broken sword, which is emblematic of his heroic yet futile attempt to fight against the terror. A ghostly flower grows by the fighter’s hand, signifying hope despite the bloodshed- much like the shrouded light provided by the woman’s kerosene lamp.
+A. Picasso didn’t illustrate the bombing in a realistic manner, and there aren’t any bombs depicted in the piece. Instead, Picasso uses a light bulb surrounded by a glowing halo of luminous spikes. This symbolises the flames that tore apart the sky during the bombing.
+
+B. Just under the light bulb the viewer’s attention is drawn to a horse. The animal has been disemboweled by an arrow and is howling in pain. This is emblematic of the suffering inflicted on the Spanish people by the dictators and German bombers. Picasso additionally includes a subliminal skull, formed by the nose and teeth of the horse.
+
+C. The human-eyed bull evokes the fight between man and beast. Without a doubt, we can see the incarnation of Spanish Nationalist and Totalitarian regimes in this animal.
+
+D. It is hardly visible, and looks as though it has been rubbed out. This erasure is symbolic of the peace that disappeared in Guernica during the war.
+
+E. With her head and eyes rolled back, the woman holds her dead baby whilst helplessly reaching out towards the sky.  This depiction is reminiscent of portraits of Dora Maar, which Picasso nicknamed “the woman who cries.” Another woman is also shown to the right of the painting: her arms are also raised and her mouth frozen mid-scream. She is surrounded by flames, which are symbolised by the tips of triangles which allude to the explosions caused by the bombs.
+
+F. He is the only man and the only figure lying down in the painting. He has been dismembered yet still holds his broken sword, which is emblematic of his heroic yet futile attempt to fight against the terror. A ghostly flower grows by the fighter’s hand, signifying hope despite the bloodshed- much like the shrouded light provided by the woman’s kerosene lamp.
 
 #### [Worksheet on Google Drive](https://docs.google.com/document/d/1okI4G3LnU9hX0xBBeIwkWbirzVrbPVgx/edit?usp=sharing&ouid=103086183032334531092&rtpof=true&sd=true)
 #### [Slide on Google Drive](https://docs.google.com/presentation/d/1I45rUjcLUyD8UPb4i_nq_L4xVswXd__f/edit?usp=sharing&ouid=103086183032334531092&rtpof=true&sd=true)
