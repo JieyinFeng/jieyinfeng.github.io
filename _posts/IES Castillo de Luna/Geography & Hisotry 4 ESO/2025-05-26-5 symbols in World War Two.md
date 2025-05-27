@@ -1,6 +1,6 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      Fun facts about Francisco Franco 				# 标题 
+title:      5 symbols in World War Two 				# 标题 
 subtitle:   #副标题
 date:       2025-05-26 				# 时间
 author:     Jieyin Feng 						# 作者
