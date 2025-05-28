@@ -12,7 +12,7 @@ tags:								#标签
     - Bilingual Program
     - Theme Classes
     - Chinese Culture & History
-
+    - Holiday Classes
 ---
 
 ## ACTIVITY 1. Please get a candy from the bag and sit by the candy flavour~
