@@ -12,7 +12,7 @@ tags:								#标签
     - Bilingual Program
     - Theme Classes
     - Chinese Culture & History
-
+    - Holiday Classes
 ---
 
 ## ACTIVITY 1. Introduce the Spring Festival Traditions
