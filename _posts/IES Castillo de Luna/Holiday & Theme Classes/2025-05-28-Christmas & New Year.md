@@ -11,7 +11,6 @@ tags:								#标签
     - IES Castillo de Luna
     - Bilingual Program
     - Theme Classes
-    - Chinese Culture & History
 
 ---
 
