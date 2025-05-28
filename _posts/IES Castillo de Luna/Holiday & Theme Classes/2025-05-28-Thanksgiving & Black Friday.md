@@ -12,7 +12,6 @@ tags:								#标签
     - Bilingual Program
     - Theme Classes
     - Holiday Classes
-    
 ---
 
 ### GAME 1. WORD SEARCH FOR THANKSGIVING WORDS
