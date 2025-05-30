@@ -13,5 +13,5 @@ tags:								#标签
     - Physical Education Classes (P.E.)
 ---
 
-## Handball Rules
+## Football Rules
 #### [worksheet on Google Drive](https://drive.google.com/drive/folders/1DucoB-l7TYM5dvORX7i0pmzCyAxvn_hU?usp=sharing)
