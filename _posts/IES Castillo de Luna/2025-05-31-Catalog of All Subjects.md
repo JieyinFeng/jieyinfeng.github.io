@@ -5,7 +5,7 @@ subtitle:   #副标题
 date:       2025-05-31 				# 时间
 pin:        true # pinned
 author:     Jieyin Feng 						# 作者
-header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+header-img: img/Ronda.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - Teaching in Spain 
