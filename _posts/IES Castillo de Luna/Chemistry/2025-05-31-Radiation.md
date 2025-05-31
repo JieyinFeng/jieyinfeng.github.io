@@ -33,7 +33,7 @@ due to their  _______  positive charges. A  _______  known as the strong nuclear
 
 9. Give two examples: the application of radiation in our daily life.
 
-10. Acute exposure. 
+10. Acute exposure. \
 What is acute exposure?\
 What are the consequences of the acute exposure?
 
