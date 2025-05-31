@@ -1,6 +1,6 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      Interview: favourites and hobbies				# 标题 
+title:      Interview favourites and hobbies				# 标题 
 subtitle:    #副标题
 date:       2025-05-28 				# 时间
 author:     Jieyin Feng 						# 作者
