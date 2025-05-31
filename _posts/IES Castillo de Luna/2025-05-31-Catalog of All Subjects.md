@@ -3,6 +3,7 @@ layout:     post   				    # 使用的布局（不需要改）
 title:      Catalog of All Subjects				# 标题 
 subtitle:   #副标题
 date:       2025-05-31 				# 时间
+pin:        true # pinned
 author:     Jieyin Feng 						# 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
