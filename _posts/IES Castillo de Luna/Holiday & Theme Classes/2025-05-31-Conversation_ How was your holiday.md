@@ -1,6 +1,6 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:    Conversation: How was your holiday?				# 标题 
+title:    Conversation: How was your holiday				# 标题 
 subtitle:   #副标题
 date:       2025-05-31 				# 时间
 author:     Jieyin Feng 						# 作者
