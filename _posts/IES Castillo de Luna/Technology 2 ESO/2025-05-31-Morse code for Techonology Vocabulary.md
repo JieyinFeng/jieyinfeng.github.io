@@ -10,7 +10,7 @@ tags:								#标签
     - Teaching in Spain 
     - IES Castillo de Luna
     - Bilingual Program
-    - Technology Classes
+    - Technology classes
 ---
 
 ### Crack the Morse code of the vocabulary
