@@ -56,9 +56,4 @@ How do you know if you’re getting enough calcium? The National Institutes of H
 #### Fun Fact 6. Too much calcium can have negative effects
 With any mineral or nutrient, it’s important to get the right amount. Too much calcium can have negative side effects. Symptoms such as constipation, gas, and bloating may indicate that you’re getting too much calcium. Extra calcium may also increase your risk of kidney stones. In rare cases, too much calcium can cause deposits of calcium in your blood. This is called hypercalcemia. 
 
-
-
-
-
-
 #### [Worksheet_on Google Drive](https://docs.google.com/document/d/1SUvhaefucTJQiVH0lxJWAMN_kXLw5_b0/edit?usp=sharing&ouid=103086183032334531092&rtpof=true&sd=true)
