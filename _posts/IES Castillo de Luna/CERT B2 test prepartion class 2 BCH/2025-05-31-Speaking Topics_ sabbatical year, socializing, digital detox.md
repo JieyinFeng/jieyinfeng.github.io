@@ -10,7 +10,7 @@ tags:								#标签
     - Teaching in Spain 
     - IES Castillo de Luna
     - Bilingual Program
-    - CERT B2 Test preparation classes
+    - CERT B2 Test preparation class
 ---
 
 ### Speaking Topics_02_1 A&B_3A&B_6 A&B
