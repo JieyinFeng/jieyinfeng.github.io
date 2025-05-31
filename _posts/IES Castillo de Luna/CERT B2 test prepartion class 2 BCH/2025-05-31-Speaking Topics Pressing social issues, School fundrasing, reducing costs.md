@@ -1,6 +1,6 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      Speaking Topics: Pressing social issues, School fundrasing, reducing costs				# 标题 
+title:      Speaking Topics_ Pressing social issues, School fundrasing, reducing costs				# 标题 
 subtitle:   #副标题
 date:       2025-05-31 				# 时间
 author:     Jieyin Feng 						# 作者
