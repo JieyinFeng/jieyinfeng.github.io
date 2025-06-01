@@ -6,8 +6,9 @@ date:       2025-05-26 				# 时间
 author:     Jieyin Feng 						# 作者 
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
-tags:								#标签
-    - My writings - poems
+tags:			#标签
+    - Life in Spain
+    - My writings_poems
 ---
 
 Wine bottles\
