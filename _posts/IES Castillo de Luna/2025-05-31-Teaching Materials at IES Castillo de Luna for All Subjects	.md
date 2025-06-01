@@ -1,6 +1,6 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      Catalog of All Subjects				# 标题 
+title:      Teaching Materials at IES Castillo de Luna for All Subjects				# 标题 
 subtitle:   #副标题
 date:       2025-05-31 				# 时间
 pin:        true # pinned
