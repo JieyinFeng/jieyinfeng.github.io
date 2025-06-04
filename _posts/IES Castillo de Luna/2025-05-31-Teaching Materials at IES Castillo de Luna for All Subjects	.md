@@ -30,9 +30,9 @@ Hello! I am Jieyin Feng, an English second language teacher in the bilingual pro
 You can find more information about me on [LinkedIn](https://www.linkedin.com/in/jieyin-feng/), [GitHub](https://github.com/JieyinFeng), or by checking other pages on [this website](https://jieyinfeng.github.io/about/).
 
 My main work:\
-(1) Assist teaching English for varies subjects in the bilingual program, including chemistry, physics, geography & history, Spanish history, mathematics, English CERT B2 level test, physical education, and technology.\
-(2) Students: Spanish teenagers from 12 to 18 years old\
-(3) Approach: task-based, language skills focused, group activities, student-centred & communicative approach\
+(1) Assist teaching English for various subjects in the bilingual program, including chemistry, physics, geography & history, Spanish history, mathematics, English CERT B2 level test, physical education, and technology.\
+(2) Students: Spanish teenagers from 12 to 18 years old; CEFR levels A1 to C1.\
+(3) Approach: task-based, language skills-focused, group activities, student-centred & communicative approach\
 (4) Materials: according to the subject materials & task-based design
 
 Here, you can find the link to all the materials I have prepared. You can also go to the "Tags" page (at the top right corner), where you can be directed to different topics and my other writings by tags. \
