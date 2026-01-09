@@ -9,6 +9,7 @@ catalog: true 						# 是否归档
 tags:								#标签
     - Life in Spain
     - My writings_Spanish stories
+    - My writings
 ---
 
 La semana pasado, un novios vinieron a vivir en la airbnb al lado de mi piso. Cuando estaban caminando al edificio, yo miré a los dos y me sorprendí porque nunca había visto otros asiáticos en mi barrio. Se lo dije a mi novio. Me dijo, “Debes hacer un saludo a los chinos. Finalmente, puedes hablar chino con tus vecinos.” Lo creí tambien pero no supe si eran chinos.
