@@ -9,6 +9,7 @@ catalog: true 						# 是否归档
 tags:								#标签
     - Life in Spain
     - My writings_Spanish stories
+    - My writings
 ---
 
 Recordé la mayoría de mis veranos porque a mí me gustan los veranos, pero el verano pasado es el más ansioso. Hubo varias razones.\
