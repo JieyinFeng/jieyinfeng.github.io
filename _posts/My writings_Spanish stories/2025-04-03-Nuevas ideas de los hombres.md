@@ -9,6 +9,7 @@ catalog: true 						# 是否归档
 tags:								#标签
     - Life in Spain
     - My writings_Spanish stories
+    - My writings
 ---
 
 La samana pasado, tuve vecinos nuevos. Esta vez, fueron todos los hombres con las motos. Hubo cinco hombres y cinco motos en total. Se quedaron en el Airbnb 3 días para las carreras del Circuito Mundial de Moto GP. 
