@@ -9,7 +9,9 @@ catalog: true 						# 是否归档
 tags:								#标签
     - Life in Spain
     - My writings_Spanish stories
+    - My writings
 ---
+
 Es una historia que mi amiga Api me dijo. 
 
 Su hermano tenía 4 años. 
