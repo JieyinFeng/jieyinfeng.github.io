@@ -9,6 +9,7 @@ catalog: true 						# 是否归档
 tags:								#标签
     - Life in Spain
     - My writings_Spanish stories
+    - My writings
 ---
 
 Mi novio volvió a Oxford hace 3 días. Esta semana, él ha ido al supermercado. El supermercado era pequeño y ha estado muy tranquilo y silencioso. No había nadie. Ha terminado de comprar y ha llamado para la cuenta. Tampoco, no había nadie allí. Pero el cajero ha parecido sorprendido detrás de las ventanas. Él no se dio cuenta cuando mi novio ha estado comprando verduras y cervezas, alguien entró y robó el lugar. 
