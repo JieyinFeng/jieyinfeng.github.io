@@ -9,6 +9,7 @@ catalog: true 						# 是否归档
 tags:								#标签
     - Life in Spain
     - My writings_poems
+    - My writings
 ---
 
 Two glasses of orange juice, sitting on the breakfast bar\
