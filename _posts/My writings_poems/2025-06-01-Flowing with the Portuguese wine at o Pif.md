@@ -9,7 +9,9 @@ catalog: true 						# 是否归档
 tags:			#标签
     - Life in Spain
     - My writings_poems
+    - My writings
 ---
+
 Locals, travellers like me, and I\
 sitting in a wine bar at the end of the street
 
