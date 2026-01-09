@@ -13,7 +13,7 @@ tags:								#标签
 ---
 
 #### “You chose the olive, but I chose the pepper too!”
-##### —— I whispered this to myself, again and again.
+#### —— I whispered this to myself, again and again.
 
   I was eating the olives that I bought from the market before the holiday. I love the picante (spicy) ones. While I was eating them, I suddenly had many thoughts. Yeah, some people like to eat the olives, while I like to eat the peppers too. I finally found the answer to many things that have been occupying my little brain. 
   This blog is about people taking different paths and how life turns out to be, surprisingly or unsurprisingly. I’ll discuss this background into several small “chapters”, all the questions I have been thinking about in the past three months or even longer.
