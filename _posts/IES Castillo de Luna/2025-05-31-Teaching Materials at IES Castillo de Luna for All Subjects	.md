@@ -63,7 +63,7 @@ Cheers ~ :D
 
 ### Holiday & Theme Classes - ALL GROUPS (FROM 1 TO 4 ESO, 1 BCH, 2 BCH)
 ##### [Helloween folder_on Google Drive](https://drive.google.com/drive/folders/1UbFr2laeYMXllb6wFGO5RQuqVSUyi7Cd?usp=sharing)
-##### [Thanksgiving & Blackfriday_on Google Drive](https://drive.google.com/drive/folders/1b0_hPFxnRFcza0AisH4bE8ImhfzVnau5?usp=sharing)
+##### [Thanksgiving & Black Friday_on Google Drive](https://drive.google.com/drive/folders/1b0_hPFxnRFcza0AisH4bE8ImhfzVnau5?usp=sharing)
 ##### [Christmas & New Year_on Google Drive](https://drive.google.com/drive/folders/1PrkPsI0E1pp7mckul-pcPlKcgPZcTPoK?usp=sharing)
 ##### [Spring Festival_Chinese New Year_on Google Drive](https://drive.google.com/drive/folders/14gnaM7CqtCJF5o_Q5dmLHCuC8crLp-mN?usp=sharing)
 ##### [La Feria_Spring Festival in Spain_on Google Drive](https://docs.google.com/presentation/d/1DRCy0ZQwOhDIeJLD7Ar9lMsq3QVJcCZa/edit?usp=sharing&ouid=103086183032334531092&rtpof=true&sd=true)
