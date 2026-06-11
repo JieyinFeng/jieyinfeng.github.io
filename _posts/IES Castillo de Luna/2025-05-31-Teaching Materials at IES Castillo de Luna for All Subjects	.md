@@ -27,7 +27,7 @@ tags:								#标签
 
 ### About Me and My work at IES Castillo de Luna
 Hello! I am Jieyin Feng, an English second language teacher in the bilingual program at IES Castillo de Luna, a public high school in Rota, Cadiz, Spain (School Term: 2024-2025). This part-time teaching position is assigned by the assistant teaching program of the Ministry of Education in Spain, [see more in the link](https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/catalogo/general/99/998188/ficha.html).\
-You can find more information about me on [LinkedIn](https://www.linkedin.com/in/jieyin-feng/), [GitHub](https://github.com/JieyinFeng), or by checking other pages on [this website](https://jieyinfeng.github.io/about/).
+You can find more information about me on [LinkedIn](https://www.linkedin.com/in/jieyin-feng/), [GitHub](https://github.com/JieyinFeng), or by checking other pages on [this website](https://jieyinfeng.github.io/tags/).
 
 My main work:\
 (1) Assist teaching English for various subjects in the bilingual program, including chemistry, physics, geography & history, Spanish history, mathematics, English CERT B2 level test, physical education, and technology.\
