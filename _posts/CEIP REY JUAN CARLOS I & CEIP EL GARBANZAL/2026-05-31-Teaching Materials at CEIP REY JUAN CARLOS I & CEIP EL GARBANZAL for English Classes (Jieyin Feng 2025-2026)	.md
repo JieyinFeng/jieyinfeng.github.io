@@ -18,7 +18,7 @@ tags:								#标签
 
 ### About Me and My work at CEIP REY JUAN CARLOS I & CEIP EL GARBANZAL
 Hello! I am Jieyin Feng, an English second language teacher in the bilingual program at CEIP REY JUAN CARLOS I & CEIP EL GARBANZAL. These are two public primary schools & kindergartens in La Unión, Murcia, Spain (School Term: 2025-2026). This part-time teaching position is assigned by the assistant teaching program of the Ministry of Education in Spain, [see more in the link](https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/catalogo/general/99/998188/ficha.html).\
-You can find more information about me on [LinkedIn](https://www.linkedin.com/in/jieyin-feng/), [GitHub](https://github.com/JieyinFeng), or by checking other pages on [this website](https://jieyinfeng.github.io/about/).
+You can find more information about me on [LinkedIn](https://www.linkedin.com/in/jieyin-feng/), [GitHub](https://github.com/JieyinFeng), or by checking other pages on [this website](https://jieyinfeng.github.io/tags/).
 
 My main work:\
 (1) Assist teaching English in the bilingual program.\
