@@ -20,17 +20,17 @@ and the pushy crowd
 The trending train,\
 the rattling windows,\
 the squeaking shoes,\
-and the screaming kid.
+and the screaming kid
 
 The painful pinch,\
 the dreadful cry,\
 the doubtful glance,\
-the awful laugh.
+the awful laugh
 
 The deadly legs,\
 the foggy brain,\
 the beating heart,\
-the disordered mind,
+the disordered mind
 
 
 ##### Background of the poem:
