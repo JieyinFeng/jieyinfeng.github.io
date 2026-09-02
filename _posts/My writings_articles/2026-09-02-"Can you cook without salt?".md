@@ -15,21 +15,24 @@ tags:								#标签
 #### 1
 #### Can you cook without salt?
 What is your answer?
+
 Yes?
+
 No?
+
 I was asked this in an English teaching training. The mentor was using this question to emphasise something so important that we cannot miss in English teaching. Apparently, for her, the answer is. “NO”. 
 
-Don’t get me wrong, it was a very insightful session. But this figurative question really makes me wonder: is it a valid question tho?
-Despite the fact that most people would say “NO”, for me, it is “YES”.
-Actually, I rarely use salt in my cooking. Even though I use it, it would be a pinch or so. I thought I was weird like that until I met my boyfriend. 
-“Is it too light? Sorry, I don’t like to have too strong flavours in food.”
-”No, it tastes good. Don’t worry about that. I don’t use much salt either.”
+Don’t get me wrong, it was a very insightful session. But this figurative question really makes me wonder: is it a valid question tho?\
+Despite the fact that most people would say “NO”, for me, it is “YES”.\
+Actually, I rarely use salt in my cooking. Even though I use it, it would be a pinch or so. I thought I was weird like that until I met my boyfriend. \
+“Is it too light? Sorry, I don’t like to have too strong flavours in food.”\
+”No, it tastes good. Don’t worry about that. I don’t use much salt either.”\
 Probably it is because I was born and raised in Cantonese culture and food, where we prefer the original taste of food. Well, “prefer” isn’t the word I’m searching for; to be honest, I’d rather say “respect”, which I was told since I was a kid by my father, who was a sous chef before. But actually, I have been told food tastes like sponge without salt outside the Cantonese area. Well, fair enough; I have no idea what the sponge tastes like. I studied for my bachelor's degree at a university in Shandong, in the north of China and then my master's in Shanghai, which are famous for their savoury or delicate sauces. After that, I went to the US, where I was eye-opened when exposed to all the artificial flavours. Still, until today, in my early 30s, I still cannot get the sense of over-flavouring. It is neither about which one is more correct nor which one is a winner. Of course, I like to eat strong-flavoured food sometimes, like hotpot, pizza, beef stew, etc. I just feel lucky that I get to taste the original flavours, like I am able to see the facts and truth before being contaminated by social media, like I can stick to my own feelings instead of pretending or hiding due to social pressure.
 
-“Can we cook without salt?”
-So, yeah, while the mentor was saying “of course, no” and other mentees were nodding and agreed with it, I said nothing, but my mind drifted somewhere else: 
-“Why can’t we survive without salt? ”
-Even more so, 
+“Can we cook without salt?”\
+So, yeah, while the mentor was saying “of course, no” and other mentees were nodding and agreed with it, I said nothing, but my mind drifted somewhere else: \
+“Why can’t we survive without salt? ”\
+Even more so, \
 “Why do we assume that everyone needs salt in cooking?”
 
 #### 2
