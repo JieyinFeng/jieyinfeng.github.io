@@ -12,9 +12,6 @@ tags:								#标签
     - My writings
 ---
 
-### "Can you cook without salt?"
-### —— I whispered this to myself, again and again.
-
 #### 1
 #### Can you cook without salt?
 What is your answer?
